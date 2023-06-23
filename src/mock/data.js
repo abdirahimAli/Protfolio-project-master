@@ -30,7 +30,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Rahim entertainment-img.png',
+    img: 'Audiophile.png',
     title: 'Audiophile',
     info: 'Reactjs, React router,HTML,CSS3',
     info2:"Beautifull, fully responsive, multi-page e-commerce website for audio products.",

@@ -31,7 +31,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Audiophile.png',
-    title: 'Audiophile',
+    title: 'Audiophile2',
     info: 'Reactjs, React router,HTML,CSS3',
     info2:"Beautifull, fully responsive, multi-page e-commerce website for audio products.",
     url: 'https://audiophileshop.netlify.app',
